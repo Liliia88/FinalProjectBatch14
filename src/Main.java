@@ -22,8 +22,9 @@ public class Main {
         Boris.size=349888;
         Boris.rings="1";
         Boris.temperature="9238k";
-
-        System.out.println("good job!");
         
+        Boris.size=5;
+        Boris.rings="5";
+
     }
 }
