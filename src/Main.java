@@ -26,7 +26,7 @@ public class Main {
         Boris.size=5;
         
 
-        System.out.println("good job!");
+        Boris.rings="5";
 
     }
 }
