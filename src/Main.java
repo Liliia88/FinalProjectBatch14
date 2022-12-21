@@ -23,5 +23,7 @@ public class Main {
         Boris.rings="1";
         Boris.temperature="9238k";
 
+        System.out.println("good job!");
+
     }
 }
