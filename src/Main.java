@@ -23,7 +23,7 @@ public class Main {
         Boris.rings="1";
         Boris.temperature="9238k";
 
-        Boris.rings="10";
+        Boris.rings="20";
 
 
     }
